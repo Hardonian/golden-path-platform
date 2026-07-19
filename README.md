@@ -26,6 +26,7 @@
 - [Demo Walkthrough](#demo-walkthrough)
 - [Verification Commands](#verification-commands)
 - [Enterprise Scaling Notes](#enterprise-scaling-notes)
+- [AI Products (Hardonia Enterpriser)](#ai-products-hardonia-enterpriser)
 - [Contributing](#contributing)
 - [References](#references)
 
@@ -909,6 +910,25 @@ platform. For enterprise adoption at scale:
 - OPA policies are versioned with test cases
 - Scorecard results are historically tracked
 - Crossplane claims provide infrastructure-as-code provenance
+
+---
+
+## AI Products (Hardonia Enterpriser)
+
+The platform also ships a commercial local-first AI drafting suite — **[Hardonia Enterpriser](products/HARDONIA-ENTERPRISER.md)** —
+built on the same golden-path principles (standardized, policy-gated, sovereign) applied to regulated document drafting.
+
+| Product | Vertical | Price | Pipelines |
+|---------|----------|-------|-----------|
+| [Sentinel Note](https://aiautomatedsystems.ca/p/sentinel-note) | Clinical | $297 | 3 |
+| [OpsDraft](https://aiautomatedsystems.ca/p/ops-draft) | Legal / Municipal | $197 | 3 |
+| [LedgerDraft](https://aiautomatedsystems.ca/p/ledger-draft) | Finance | $197 | 3 |
+| [HRDraft](https://aiautomatedsystems.ca/p/hr-draft) | HR / Policy | $197 | 3 |
+| [Hardonia Enterpriser](https://aiautomatedsystems.ca/p/hardonia-enterpriser) | All-access | $497 | 12 |
+
+All pipelines run on the buyer's hardware via the **AIR engine** (local Ollama, no cloud,
+no API keys, no per-token billing). Managed install available at $149/mo. Full spec,
+architecture, and verification in [products/HARDONIA-ENTERPRISER.md](products/HARDONIA-ENTERPRISER.md).
 
 ---
 
