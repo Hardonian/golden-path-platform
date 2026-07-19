@@ -930,6 +930,8 @@ built on the same golden-path principles (standardized, policy-gated, sovereign)
 
 **Free lead magnet:** [Sovereign AI Readiness Score](https://aiautomatedsystems.ca/lead) — a 100% local 60-second sovereignty audit. No cloud, no email required to see your score.
 
+Compliance: one-click unsubscribe (CASL/GDPR) at `/unsubscribe`. Launch coupon `LAUNCH20` = 20% off any suite.
+
 All pipelines run on the buyer's hardware via the **AIR engine** (local Ollama, no cloud,
 no API keys, no per-token billing). Managed install available at $149/mo. Full spec,
 architecture, and verification in [products/HARDONIA-ENTERPRISER.md](products/HARDONIA-ENTERPRISER.md).
