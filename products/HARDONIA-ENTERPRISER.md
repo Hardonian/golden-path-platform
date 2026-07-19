@@ -98,6 +98,45 @@ signed download URL. No human in the loop.
 
 ---
 
+## Sovereign Supercharger (top tier)
+
+The maximal bundle: all 4 verticals + Hardonia Enterpriser (12 pipelines) **plus**:
+
+- **IP & License pack** — commercial restrictive license, trademark notice, no-compete undertaking
+- **Sovereign Audit Engine** (`audit/sovereign_audit.py`) — verifies offline execution, writes a signed report
+- **3 months managed install included** ($149/mo value)
+
+Price: **$1497 one-time**. The audit engine proves your install never touches a third-party cloud:
+
+```bash
+python3 audit/sovereign_audit.py
+# exit 0 = sovereign (no external endpoints, all 12 pipelines compile + dry-run)
+```
+
+Every bundle ships a SHA-256 manifest (`ip/MANIFEST.sha256`) for provenance.
+
+---
+
+## Sovereign AI Audit (service)
+
+A fixed-fee **$297** expert review of your AI drafting sovereignty, credited toward any
+product purchase. You run the free Readiness Score, share the report, we deliver a
+prioritized remediation report + 1-hour call.
+
+---
+
+## Free Lead Magnet — Sovereign AI Readiness Score
+
+A 100% local script that scores your current AI drafting setup (data residency, billing
+predictability, auditability, compliance, lock-in) in 60 seconds. No cloud, no email
+required to see the score. Captured leads enter a nurture sequence pointing to the audit
+and suites.
+
+- Script: `lead-magnet/sovereign_readiness_score.py`
+- Capture page: `https://aiautomatedsystems.ca/lead`
+
+---
+
 ## License
 
 Products are commercial. The AIR engine design and pipeline patterns are documented

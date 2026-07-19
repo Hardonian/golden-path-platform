@@ -26,7 +26,7 @@
 - [Demo Walkthrough](#demo-walkthrough)
 - [Verification Commands](#verification-commands)
 - [Enterprise Scaling Notes](#enterprise-scaling-notes)
-- [AI Products (Hardonia Enterpriser)](#ai-products-hardonia-enterpriser)
+- [AI Products (Hardonia Enterpriser + Supercharger)](ai-products-hardonia-enterpriser)
 - [Contributing](#contributing)
 - [References](#references)
 
@@ -925,6 +925,10 @@ built on the same golden-path principles (standardized, policy-gated, sovereign)
 | [LedgerDraft](https://aiautomatedsystems.ca/p/ledger-draft) | Finance | $197 | 3 |
 | [HRDraft](https://aiautomatedsystems.ca/p/hr-draft) | HR / Policy | $197 | 3 |
 | [Hardonia Enterpriser](https://aiautomatedsystems.ca/p/hardonia-enterpriser) | All-access | $497 | 12 |
+| [Sovereign Supercharger](https://aiautomatedsystems.ca/p/sovereign-supercharger) | All-access + IP pack + audit | $1497 | 12 |
+| [Sovereign AI Audit](https://aiautomatedsystems.ca/p/sovereign-ai-audit) | Expert review (service) | $297 | — |
+
+**Free lead magnet:** [Sovereign AI Readiness Score](https://aiautomatedsystems.ca/lead) — a 100% local 60-second sovereignty audit. No cloud, no email required to see your score.
 
 All pipelines run on the buyer's hardware via the **AIR engine** (local Ollama, no cloud,
 no API keys, no per-token billing). Managed install available at $149/mo. Full spec,
